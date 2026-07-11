@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://asdruel.github.io/Partituras/sitemap.xml
+Sitemap: https://asdruel.github.io/catalogo/sitemap.xml

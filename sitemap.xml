@@ -3,31 +3,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://asdruel.github.io/Partituras/</loc>
+    <loc>https://asdruel.github.io/catalogo/</loc>
 </url>
 
 <url>
-    <loc>https://asdruel.github.io/Partituras/obras/himno-nacional-de-colombia.html</loc>
+    <loc>https://asdruel.github.io/catalogo/obras/himno-nacional-de-colombia.html</loc>
 </url>
 
 <url>
-    <loc>https://asdruel.github.io/Partituras/obras/gaudeamus-igitur.html</loc>
+    <loc>https://asdruel.github.io/catalogo/obras/gaudeamus-igitur.html</loc>
 </url>
 
 <url>
-    <loc>https://asdruel.github.io/Partituras/obras/pane-di-vita-nuova.html</loc>
+    <loc>https://asdruel.github.io/catalogo/obras/pane-di-vita-nuova.html</loc>
 </url>
 
 <url>
-    <loc>https://asdruel.github.io/Partituras/obras/bach-coral-16.html</loc>
+    <loc>https://asdruel.github.io/catalogo/obras/plegaria-por-la-paz.html</loc>
 </url>
 
 <url>
-    <loc>https://asdruel.github.io/Partituras/obras/bach-coral-21.html</loc>
+    <loc>https://asdruel.github.io/catalogo/obras/il-cantico-delle-creature.html</loc>
 </url>
 
 <url>
-    <loc>https://asdruel.github.io/Partituras/obras/bach-coral-23.html</loc>
+    <loc>https://asdruel.github.io/catalogo/obras/mensaje-a-colombia.html</loc>
+</url>
+
+<url>
+    <loc>https://asdruel.github.io/catalogo/obras/bach-coral-16.html</loc>
+</url>
+
+<url>
+    <loc>https://asdruel.github.io/catalogo/obras/bach-coral-21.html</loc>
+</url>
+
+<url>
+    <loc>https://asdruel.github.io/catalogo/obras/bach-coral-23.html</loc>
 </url>
 
 </urlset>
